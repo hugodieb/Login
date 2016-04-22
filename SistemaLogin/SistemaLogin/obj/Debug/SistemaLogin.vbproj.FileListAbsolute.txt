@@ -1,0 +1,17 @@
+G:\projetos_vb\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.exe.config
+G:\projetos_vb\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.exe
+G:\projetos_vb\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.pdb
+G:\projetos_vb\SistemaLogin\SistemaLogin\bin\Debug\SistemaLogin.xml
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.Resources.resources
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.vbproj.GenerateResource.Cache
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.exe
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.xml
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.pdb
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.frmLogin.resources
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.frmMdiPrincipal.resources
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.Explorer1.resources
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.frmUsuarios.resources
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.frmListaUsuarios.resources
+G:\projetos_vb\SistemaLogin\SistemaLogin\obj\Debug\SistemaLogin.vbprojResolveAssemblyReference.cache
+G:\projetos_vb\SistemaLogin\SistemaLogin\bin\Debug\sistemaLogin.accdb
+G:\projetos_vb\SistemaLogin\SistemaLogin\bin\Debug\joinner.accdb
